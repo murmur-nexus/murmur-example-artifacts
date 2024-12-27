@@ -1,0 +1,14 @@
+name: divide
+type: tool
+version: 1.0.0
+description: Divides two integers.
+metadata:
+  author: Murmur Nexus
+  email: hi@murmur.nexus
+  license: MIT
+  urls:
+    repository:
+      - https://github.com/murmur-nexus/native-artifacts/tree/main/tools/divide
+  tags:
+    - native
+  requires_python: ">=3.9"

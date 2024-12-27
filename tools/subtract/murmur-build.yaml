@@ -1,0 +1,14 @@
+name: subtract
+type: tool
+version: 1.0.0
+description: Subtracts two integers.
+metadata:
+  author: Murmur Nexus
+  email: hi@murmur.nexus
+  license: MIT
+  urls:
+    repository:
+      - https://github.com/murmur-nexus/native-artifacts/tree/main/tools/subtract
+  tags:
+    - native
+  requires_python: ">=3.9"
