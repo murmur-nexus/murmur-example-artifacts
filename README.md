@@ -1,6 +1,3 @@
-# Murmur - Native Artifacts
+# Murmur - Example Artifacts
 
-This repository hosts a collection of native agents and tools that can be packaged with [murmur](https://github.com/murmur-nexus/native-artifacts).
-
-- **Example Agents and Tools**: For demonstration and testing purposes.
-- **Production-Ready Agents and Tools**: Suitable for common workflows and deployment.
+This repository contains a collection of example agents and tools designed for packaging with [murmur](https://github.com/murmur-nexus/murmur). These examples are intended for demonstration and testing purposes.
