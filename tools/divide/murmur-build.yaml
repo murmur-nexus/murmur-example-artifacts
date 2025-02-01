@@ -8,7 +8,7 @@ metadata:
   license: MIT
   urls:
     repository:
-      - https://github.com/murmur-nexus/native-artifacts/tree/main/tools/divide
+      - https://github.com/murmur-nexus/murmur-example-artifacts/tree/main/tools/divide
   tags:
     - native
   requires_python: ">=3.9"
