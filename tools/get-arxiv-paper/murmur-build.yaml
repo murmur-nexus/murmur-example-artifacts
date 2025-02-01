@@ -1,0 +1,12 @@
+name: get-arxiv-paper
+type: tool
+version: 1.0.0
+description: A tool for getting a random arXiv paper related to a given topic.
+metadata:
+  author: Murmur Nexus
+  author_email: hi@example.com
+  project_url:
+    - https://github.com/murmur-nexus/murmur-example-artifacts/tree/main/tools/get_arxiv_paper
+  requires_python: ">=3.9"
+dependencies:
+  - requests>=2.32.3

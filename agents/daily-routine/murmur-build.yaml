@@ -1,0 +1,16 @@
+name: daily-routine
+type: agent
+version: 1.0.0
+description: A daily routine agent that helps users stay informed.
+instructions:
+    - Follow the routine from the context. 
+    - Start by gathering all the information. 
+    - Present received information to the user in a cheerful manner. 
+    - Make sure to ask the user for a particular science topic, before transferring. 
+    - Important! Once presented everything or user is done, transfer back.
+metadata:
+  author: Murmur Nexus
+  author_email: hi@example.com
+  project_url:
+    - https://github.com/murmur-nexus/murmur-example-artifacts/tree/main/agents/daily-routine
+  requires_python: ">=3.9"

@@ -1,0 +1,13 @@
+name: get-open-meteo-weather
+type: tool
+version: 1.0.0
+description: A tool for getting the weather from Open Meteo.
+metadata:
+  author: Murmur Nexus
+  author_email: hi@example.com
+  project_url:
+    - https://github.com/murmur-nexus/murmur-example-artifacts/tree/main/tools/get_open_meteo_weather
+  requires_python: ">=3.9"
+dependencies:
+  - requests>=2.32.3
+
