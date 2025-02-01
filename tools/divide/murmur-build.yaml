@@ -4,11 +4,7 @@ version: 1.0.0
 description: Divides two integers.
 metadata:
   author: Murmur Nexus
-  email: hi@murmur.nexus
-  license: MIT
-  urls:
-    repository:
-      - https://github.com/murmur-nexus/murmur-example-artifacts/tree/main/tools/divide
-  tags:
-    - native
+  author_email: hi@example.com
+  project_url:
+    - https://github.com/murmur-nexus/murmur-example-artifacts/tree/main/tools/divide
   requires_python: ">=3.9"

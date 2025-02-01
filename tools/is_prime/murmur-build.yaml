@@ -4,13 +4,9 @@ version: 1.0.0
 description: A useful tool for checking if a number is prime.
 metadata:
   author: Murmur Nexus
-  email: hi@murmur.nexus
-  license: MIT
-  urls:
-    repository:
-      - https://github.com/murmur-nexus/murmur-example-artifacts/tree/main/tools/multiply
-  tags:
-    - native
+  author_email: hi@example.com
+  project_url:
+    - https://github.com/murmur-nexus/murmur-example-artifacts/tree/main/tools/is_prime
   requires_python: ">=3.9"
 dependencies:
   - sympy>=1.13.3 # example for importing dependencies
